@@ -1,0 +1,15 @@
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.exe
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.deps.json
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.runtimeconfig.json
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.dll
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.pdb
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.AssemblyReference.cache
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfoInputs.cache
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfo.cs
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.dll
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\refint\05. Count Symbols.dll
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.pdb
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.genruntimeconfig.cache
+G:\SoftUni-C#-Advanced\01. Unique Usernames\05. Count Symbols\obj\Debug\net6.0\ref\05. Count Symbols.dll
